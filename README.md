@@ -2,8 +2,8 @@
 
 Kho lưu trữ Bài tập lớn bộ môn Truyền số liệu và Mạng. Dự án này tập trung vào việc kiểm thử, đo lường và phân tích sự khác biệt về mặt hiệu năng giữa các thế hệ mạng vô tuyến. Quá trình nghiên cứu được thực hiện qua hai giai đoạn liên kết chặt chẽ: mô phỏng hệ thống trên phần mềm và kiểm thử trực tiếp trên các thiết bị mạng thực tế.
 
-## 📥 Tải bản báo cáo hoàn chỉnh (Định dạng PDF)
-Xem kết quả phân tích cuối cùng, vui lòng tải xuống tệp tin văn bản đã được chúng tôi đóng gói sẵn tại mục quản lý phiên bản phát hành của kho lưu trữ này:
+## 📥 Tải bản báo cáo hoàn chỉnh (Định dạng PDF) và File mô phỏng .pkt mới nhất
+Xem kết quả phân tích cuối cùng, vui lòng tải xuống tệp tin văn bản đã được đóng gói sẵn tại mục quản lý phiên bản phát hành của kho lưu trữ này:
 
 👉 **[Tải xuống tệp tin Báo cáo hoàn chỉnh tại đây](https://github.com/thuanmazda/dtn-simreport/releases/latest)**
 
