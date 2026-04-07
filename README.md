@@ -24,7 +24,7 @@ Toàn bộ dự án được phân chia thành hai thư mục chính chứa mã 
 *   **Mô tả tài liệu:** Bao gồm các bài thí nghiệm chuyên sâu nhằm đánh giá sự suy hao cường độ tín hiệu vô tuyến dựa trên khoảng cách vật lý, độ trễ và mức độ dao động tín hiệu, sự chênh lệch về giới hạn băng thông thực tế và hiện tượng thắt cổ chai hiệu năng khi hệ thống chạy ở chế độ hỗn hợp.
 
  ### 3. File .pkt chứa mô hình mô phỏng và các thông số đã thiết lập sẵn
-*   **Mô tả tài liệu:** Bao gồm mô hình mô phỏng trong phần mềm Packet Tracer 9.0.0 có 3 Laptop A, B, C được kết nối với 3 AP riêng biệt, 1 server chứa web html và máy chủ FTP, 1 router cấp địa chỉ IP dùng để mô phỏng thực tế trong điều kiện lý tưởng. Các thiết bị đầu cuối sẽ được cấp IP từ '192.168.1.10' trở đi, Server sẽ có Static IP '192.168.1.11'.
+*   **Mô tả tài liệu:** Bao gồm mô hình mô phỏng trong phần mềm Packet Tracer 9.0.0 có 3 Laptop A, B, C được kết nối với 3 AP riêng biệt, 1 server chứa web html và máy chủ FTP, 1 router cấp địa chỉ IP dùng để mô phỏng thực tế trong điều kiện lý tưởng. Các thiết bị đầu cuối sẽ được cấp IP từ `192.168.1.10` trở đi, Server sẽ có Static IP `192.168.1.11`.
 
 ---
 
