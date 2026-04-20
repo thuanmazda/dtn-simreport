@@ -1,4 +1,4 @@
-# Đánh giá và So sánh hiệu năng mạng vô tuyến (Chuẩn 802.11a, 802.11b và 802.11g)
+# Đánh giá và So sánh hiệu năng mạng Wi-fi (Chuẩn 802.11a, 802.11b và 802.11g)
 
 Kho lưu trữ Bài tập lớn bộ môn Truyền số liệu và Mạng. Dự án này tập trung vào việc kiểm thử, đo lường và phân tích sự khác biệt về mặt hiệu năng giữa các thế hệ mạng vô tuyến. Quá trình nghiên cứu được thực hiện qua hai giai đoạn liên kết chặt chẽ: mô phỏng hệ thống trên phần mềm và kiểm thử trực tiếp trên các thiết bị mạng thực tế.
 
